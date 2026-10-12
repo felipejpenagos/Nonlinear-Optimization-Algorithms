@@ -1,7 +1,6 @@
 # exchange_opt.py  –  CEE 251L, Duke University  |  H.P. Gavin
 
-import sys
-sys.path.insert(0, '/Users/pjaram84/Desktop/multivarious_ta')
+# Requires the multivarious package: pip install -e /path/to/multivarious
 
 import numpy as np
 from multivarious.opt.nms import nms
